@@ -1,3 +1,9 @@
+# Consideraciones
+
+- Modificar el archivo "\react-journal-app\src\firebase\firebase-config.js" para establecer la configuración correspondiente a firebase
+
+- Modificar el archivo "\react-journal-app\src\helpers\fileUpload.js" para completar la cadena de conexion al api de cloudinary
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
