@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Referencias del proyecto
+El proyecto GifExpertApp fue realizado a partir del curso realizado en udemy, se dejan los datos del mismo como referencia
+
+Curso: React: De cero a experto ( Hooks y MERN )
+
+Autor: Fernando Herrera
+
+Web: https://fernando-herrera.com/#/courses/React
+
+GitHub: https://github.com/Klerith
